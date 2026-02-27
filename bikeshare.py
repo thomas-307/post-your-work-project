@@ -40,7 +40,8 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
+    # Reading a CSV file into a DataFrame
+    df = pd.read_csv('new_york_city.csv')
 
     return df
 
