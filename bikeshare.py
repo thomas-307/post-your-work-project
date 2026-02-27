@@ -17,13 +17,13 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    city = 'new york city'
 
     # get user input for month (all, january, february, ... , june)
-
+    month = 'june'
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
-
+    day = 'sunday'
 
     print('-'*40)
     return city, month, day
