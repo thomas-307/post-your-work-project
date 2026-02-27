@@ -12,12 +12,11 @@ This project shows statistics on:
 
 ## Information about how to use your project
 
-This could include:
+To use this project:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Download new_york_city.csv file from Udacity course website.
+- Run script bikeshare.py.
+
 
 ## Contribution guidelines
 
